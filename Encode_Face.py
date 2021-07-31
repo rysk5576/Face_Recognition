@@ -59,16 +59,3 @@ for directory in os.listdir(image_directory):
                 os.remove(os.path.join(root, file))
 
 print("All PNG Images have been Deleted")
-
-
-
-
-
-
-
-
-
-
-
-
-
